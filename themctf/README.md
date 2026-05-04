@@ -80,7 +80,7 @@ http://<target>/user/dashboard.php?widget=uploads/.htaccess
 
 The file loads and displays its contents in the diagnostic panel — including a comment containing the flag:
 
-![07 - LFI result — Flag Part 3](images/07-lfi-flag3.png)
+![07 - LFI result — Flag Part 3](images/07-LFI-flag3.png)
 
 ```
 # Disable PHP execution in this directory
