@@ -60,6 +60,6 @@ Welcome to my **CTF (Capture The Flag) writeup repository** — a personal archi
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.ctf-writeups)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](./LICENSE)
 
-*Made with ❤️ and lots of `segfault`s*
+*Made with ❤️*
 
 </div>
